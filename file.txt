@@ -1,1 +1,5 @@
-(haha hello boys
+<<<<<<< HEAD
+hahahello boys
+=======
+hahahello boys
+>>>>>>> branch1
